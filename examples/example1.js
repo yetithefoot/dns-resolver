@@ -1,4 +1,4 @@
-var resolver = require('../dns-resolver')
+var resolver = require('../index')
 
 
 // configure resolver
