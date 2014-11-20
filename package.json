@@ -1,0 +1,23 @@
+{
+  "name": "dns-checker",
+  "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Node.js dns cheker module",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~2.0.0",
+    "should": "~4.1.0"
+  },
+  "keywords": [
+    "domain"
+    "dns",
+    "checker"
+   ]
+}
