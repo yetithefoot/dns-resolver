@@ -16,7 +16,7 @@
     "should": "~4.1.0"
   },
   "keywords": [
-    "domain"
+    "domain",
     "dns",
     "checker"
    ]
