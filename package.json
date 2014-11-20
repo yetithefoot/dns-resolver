@@ -2,7 +2,7 @@
   "name": "dns-resolver",
   "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node.js dns resolver module",
   "scripts": {
   },
