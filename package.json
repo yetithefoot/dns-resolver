@@ -2,8 +2,8 @@
   "name": "dns-resolver",
   "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
   "license": "MIT",
-  "version": "0.0.1",
-  "description": "Node.js dns cheker module",
+  "version": "0.0.2",
+  "description": "Node.js dns resolver module",
   "scripts": {
   },
   "engines": {
