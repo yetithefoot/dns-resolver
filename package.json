@@ -2,15 +2,13 @@
   "name": "dns-resolver",
   "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Node.js dns resolver module",
-  "scripts": {
-  },
+  "scripts": {},
   "engines": {
     "node": ">= 0.10"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "~2.0.0",
     "should": "~4.1.0"
@@ -20,5 +18,5 @@
     "domain",
     "dns",
     "checker"
-   ]
+  ]
 }
