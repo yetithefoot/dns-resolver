@@ -1,7 +1,9 @@
-DNS checker module for node apps.
+#NO LONGER SUPPPORTED! PLEASE LOOK HERE — [https://github.com/yetithefoot/dns-comparer](DNS-COMPARER)
+Checks that two domain names points to the same ip.
 
 Problem
 ---
+
 
 App should checks domain names with reference one.
 
