@@ -1,4 +1,4 @@
-#NO LONGER SUPPPORTED! PLEASE LOOK HERE — [https://github.com/yetithefoot/dns-comparer](DNS-COMPARER)
+#NO LONGER SUPPPORTED! PLEASE LOOK HERE — https://github.com/yetithefoot/dns-comparer
 Checks that two domain names points to the same ip.
 
 Problem
